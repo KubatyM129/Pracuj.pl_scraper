@@ -1,0 +1,702 @@
+[
+    {
+        "offer_id": "1003315653",
+        "job": "Summer Internship Program in IT",
+        "company": "Sylvamo Global Business Services Center",
+        "location": "Kraków, Grzegórzki",
+        "link": "https://www.pracuj.pl/praca/summer-internship-program-in-it-krakow-lubicz-23,oferta,1003315653"
+    },
+    {
+        "offer_id": "1003335228",
+        "job": "Intern Technical Project Manager",
+        "company": "VML Enterprise Solutions",
+        "location": "3 lokalizacje",
+        "link": "https://www.pracuj.pl/praca/intern-technical-project-manager,oferta,1003335228"
+    },
+    {
+        "offer_id": "1003334372",
+        "job": "Network Analyst, Entry Internship",
+        "company": "PPG Industries",
+        "location": "Wrocław, Śródmieście",
+        "link": "https://www.pracuj.pl/praca/network-analyst-entry-internship-wroclaw-curie-sklodowskiej-12,oferta,1003334372"
+    },
+    {
+        "offer_id": "1003337504",
+        "job": "Full Stack Intern in DTV Standardization and Innovation Team",
+        "company": "Samsung R&D Institute Poland",
+        "location": "Warszawa, Wola",
+        "link": "https://www.pracuj.pl/praca/full-stack-intern-in-dtv-standardization-and-innovation-team-warszawa-plac-europejski-1,oferta,1003337504"
+    },
+    {
+        "offer_id": "1003329662",
+        "job": "Letni program stażowy Dobry Start 2024",
+        "company": "ULTIMO S.A.",
+        "location": "Wrocław, Śródmieście",
+        "link": "https://www.pracuj.pl/praca/letni-program-stazowy-dobry-start-2024-wroclaw-szczytnicka-11,oferta,1003329662"
+    },
+    {
+        "offer_id": "1003365752",
+        "job": "Praktykant w Dziale QA",
+        "company": "Sirocco",
+        "location": "Gliwice",
+        "link": "https://www.pracuj.pl/praca/praktykant-w-dziale-qa-gliwice,oferta,1003365752"
+    },
+    {
+        "offer_id": "1003356584",
+        "job": "Associate Software Engineer Intern",
+        "company": "AUCTANE",
+        "location": "Zielona Góra",
+        "link": "https://www.pracuj.pl/praca/associate-software-engineer-intern-zielona-gora-kostrzynska-4,oferta,1003356584"
+    },
+    {
+        "offer_id": "1003356548",
+        "job": "Internship - Software Quality Assurance Tester with French",
+        "company": "Samsung R&D Institute Poland",
+        "location": "Warszawa",
+        "link": "https://www.pracuj.pl/praca/internship-software-quality-assurance-tester-with-french-warszawa,oferta,1003356548"
+    },
+    {
+        "offer_id": "1003365502",
+        "job": "Internship – Cloud Services Intern",
+        "company": "Samsung R&D Institute Poland",
+        "location": "Warszawa, Wola",
+        "link": "https://www.pracuj.pl/praca/internship-cloud-services-intern-warszawa-plac-europejski-1,oferta,1003365502"
+    },
+    {
+        "offer_id": "1003328961",
+        "job": "Praktyki Java / Salesforce",
+        "company": "Accenture Technology",
+        "location": "3 lokalizacje",
+        "link": "https://www.pracuj.pl/praca/praktyki-java--salesforce,oferta,1003328961"
+    },
+    {
+        "offer_id": "1003364876",
+        "job": "Internship - Automation System Development Intern",
+        "company": "Samsung R&D Institute Poland",
+        "location": "Warszawa, Wola",
+        "link": "https://www.pracuj.pl/praca/internship-automation-system-development-intern-warszawa-plac-europejski-1,oferta,1003364876"
+    },
+    {
+        "offer_id": "1003331590",
+        "job": "Praktyki Power Platform",
+        "company": "Capgemini Polska",
+        "location": "Warszawa",
+        "link": "https://www.pracuj.pl/praca/praktyki-power-platform-warszawa,oferta,1003331590"
+    },
+    {
+        "offer_id": "1003310556",
+        "job": "Praktykant/Praktykantka do Zespołu Automatyzacji Testów",
+        "company": "AXA IT Solutions",
+        "location": "Warszawa, Wola",
+        "link": "https://www.pracuj.pl/praca/praktykant-praktykantka-do-zespolu-automatyzacji-testow-warszawa-chlodna-51,oferta,1003310556"
+    },
+    {
+        "offer_id": "1003355239",
+        "job": "Business Analyst Intern",
+        "company": "AUCTANE",
+        "location": "Zielona Góra",
+        "link": "https://www.pracuj.pl/praca/business-analyst-intern-zielona-gora-kostrzynska-4,oferta,1003355239"
+    },
+    {
+        "offer_id": "1003355234",
+        "job": "Customer Support Intern",
+        "company": "AUCTANE",
+        "location": "Zielona Góra",
+        "link": "https://www.pracuj.pl/praca/customer-support-intern-zielona-gora-kostrzynska-4,oferta,1003355234"
+    },
+    {
+        "offer_id": "1003355236",
+        "job": "Cloud Engineering Intern",
+        "company": "AUCTANE",
+        "location": "Zielona Góra",
+        "link": "https://www.pracuj.pl/praca/cloud-engineering-intern-zielona-gora-kostrzynska-4,oferta,1003355236"
+    },
+    {
+        "offer_id": "1003328100",
+        "job": "Internship - Software Quality Assurance Tester with German",
+        "company": "Samsung R&D Institute Poland",
+        "location": "Warszawa",
+        "link": "https://www.pracuj.pl/praca/internship-software-quality-assurance-tester-with-german-warszawa,oferta,1003328100"
+    },
+    {
+        "offer_id": "1003335247",
+        "job": "Intern Quality Assurance Engineer",
+        "company": "VML Enterprise Solutions",
+        "location": "3 lokalizacje",
+        "link": "https://www.pracuj.pl/praca/intern-quality-assurance-engineer,oferta,1003335247"
+    },
+    {
+        "offer_id": "1003335234",
+        "job": "Intern Software Engineer - Fullstack",
+        "company": "VML Enterprise Solutions",
+        "location": "2 lokalizacje",
+        "link": "https://www.pracuj.pl/praca/intern-software-engineer---fullstack,oferta,1003335234"
+    },
+    {
+        "offer_id": "1003364194",
+        "job": "SAP Consulting Intern",
+        "company": "NTT DATA Business Solutions sp. z o.o.",
+        "location": "4 lokalizacje",
+        "link": "https://www.pracuj.pl/praca/sap-consulting-intern,oferta,1003364194"
+    },
+    {
+        "offer_id": "1003327530",
+        "job": "Płatny Staż w dziale Service Desk z językiem niemieckim",
+        "company": "Robert Bosch Sp. z o.o.",
+        "location": "Łódź, Śródmieście",
+        "link": "https://www.pracuj.pl/praca/platny-staz-w-dziale-service-desk-z-jezykiem-niemieckim-lodz-skladowa-35,oferta,1003327530"
+    },
+    {
+        "offer_id": "1003363967",
+        "job": "Internship - Protocol Tester",
+        "company": "Samsung R&D Institute Poland",
+        "location": "Warszawa, Wola",
+        "link": "https://www.pracuj.pl/praca/internship-protocol-tester-warszawa-plac-europejski-1,oferta,1003363967"
+    },
+    {
+        "offer_id": "1003337655",
+        "job": "Stażysta / Stażystka ds. Wsparcia IT",
+        "company": "Intelligent Logistic Solutions Sp. z o.o.",
+        "location": "Błonie",
+        "link": "https://www.pracuj.pl/praca/stazysta-stazystka-ds-wsparcia-it-blonie,oferta,1003337655"
+    },
+    {
+        "offer_id": "1003362983",
+        "job": "IT internship with French",
+        "company": "Accenture Technology",
+        "location": "3 lokalizacje",
+        "link": "https://www.pracuj.pl/praca/it-internship-with-french,oferta,1003362983"
+    },
+    {
+        "offer_id": "1003362980",
+        "job": "Salesforce Starter Academy",
+        "company": "Accenture Technology",
+        "location": "2 lokalizacje",
+        "link": "https://www.pracuj.pl/praca/salesforce-starter-academy,oferta,1003362980"
+    },
+    {
+        "offer_id": "1003271521",
+        "job": "Information Security Management Intern",
+        "company": "Brown Brothers Harriman",
+        "location": "Kraków, Podgórze",
+        "link": "https://www.pracuj.pl/praca/information-security-management-intern-krakow-stanislawa-klimeckiego-1,oferta,1003271521"
+    },
+    {
+        "offer_id": "1003271503",
+        "job": "Software Development Intern",
+        "company": "Brown Brothers Harriman",
+        "location": "Kraków, Podgórze",
+        "link": "https://www.pracuj.pl/praca/software-development-intern-krakow-stanislawa-klimeckiego-1,oferta,1003271503"
+    },
+    {
+        "offer_id": "1003346982",
+        "job": "Płatny staż - Software Engineer (C#)",
+        "company": "Pitney Bowes Polska sp z o.o.",
+        "location": "Bielsko-Biała",
+        "link": "https://www.pracuj.pl/praca/platny-staz-software-engineer-c%23-bielsko-biala,oferta,1003346982"
+    },
+    {
+        "offer_id": "1003336906",
+        "job": "System Analyst - staż SantanderTech",
+        "company": "Santander Bank Polska",
+        "location": "Poznań",
+        "link": "https://www.pracuj.pl/praca/system-analyst-staz-santandertech-poznan,oferta,1003336906"
+    },
+    {
+        "offer_id": "1003336637",
+        "job": "Staż HelpDesk",
+        "company": "Silky Coders sp. z o.o.",
+        "location": "Kraków, Podgórze",
+        "link": "https://www.pracuj.pl/praca/staz-helpdesk-krakow-bagrowa-7,oferta,1003336637"
+    },
+    {
+        "offer_id": "1003362189",
+        "job": "Staż w Zespole ds. CRM i Data Science (f/m/d)",
+        "company": "Allianz",
+        "location": "Warszawa",
+        "link": "https://www.pracuj.pl/praca/staz-w-zespole-ds-crm-i-data-science-f-m-d-warszawa,oferta,1003362189"
+    },
+    {
+        "offer_id": "1003362081",
+        "job": "Internship – Front-End Intern for Cloud Services",
+        "company": "Samsung R&D Institute Poland",
+        "location": "Warszawa, Wola",
+        "link": "https://www.pracuj.pl/praca/internship-front-end-intern-for-cloud-services-warszawa-plac-europejski-1,oferta,1003362081"
+    },
+    {
+        "offer_id": "1003362079",
+        "job": "Internship – Back-End Intern for Cloud Services",
+        "company": "Samsung R&D Institute Poland",
+        "location": "Warszawa, Wola",
+        "link": "https://www.pracuj.pl/praca/internship-back-end-intern-for-cloud-services-warszawa-plac-europejski-1,oferta,1003362079"
+    },
+    {
+        "offer_id": "1003362019",
+        "job": "Praktykant / Praktykantka w Zespole Wsparcia Logistyki",
+        "company": "Żabka Polska",
+        "location": "Tyniec Mały (pow. wrocławski)",
+        "link": "https://www.pracuj.pl/praca/praktykant-praktykantka-w-zespole-wsparcia-logistyki-tyniec-maly-pow-wroclawski,oferta,1003362019"
+    },
+    {
+        "offer_id": "1003351645",
+        "job": "Internship at AVSystem",
+        "company": "AVSystem",
+        "location": "Kraków, Prądnik Biały",
+        "link": "https://www.pracuj.pl/praca/internship-at-avsystem-krakow-walerego-eljasza-radzikowskiego-47d,oferta,1003351645"
+    },
+    {
+        "offer_id": "1003308520",
+        "job": "Paid SAP Full-stack Internship",
+        "company": "HICRON sp. z o.o.",
+        "location": "2 lokalizacje",
+        "link": "https://www.pracuj.pl/praca/paid-sap-full-stack-internship,oferta,1003308520"
+    },
+    {
+        "offer_id": "1003361642",
+        "job": "Internship – Data Engineer",
+        "company": "Hitachi Energy Services Sp. z o.o.",
+        "location": "Kraków, Stare Miasto",
+        "link": "https://www.pracuj.pl/praca/internship-data-engineer-krakow-pawia-7,oferta,1003361642"
+    },
+    {
+        "offer_id": "1003324754",
+        "job": "Staż Programistyczny SQL C# / .NET",
+        "company": "E80 Group Sp. z o.o.",
+        "location": "Kraków, Czyżyny",
+        "link": "https://www.pracuj.pl/praca/staz-programistyczny-sql-c%23-net-krakow-profesora-michala-zyczkowskiego-19,oferta,1003324754"
+    },
+    {
+        "offer_id": "1003361237",
+        "job": "Intern Dynamics 365 / Power Platform",
+        "company": "Capgemini Polska",
+        "location": "Gdańsk",
+        "link": "https://www.pracuj.pl/praca/intern-dynamics-365-power-platform-gdansk,oferta,1003361237"
+    },
+    {
+        "offer_id": "1003324545",
+        "job": "Praktyki Data Engineer & Data Analyst",
+        "company": "Accenture Technology",
+        "location": "Warszawa",
+        "link": "https://www.pracuj.pl/praca/praktyki-data-engineer-data-analyst-warszawa,oferta,1003324545"
+    },
+    {
+        "offer_id": "1003324547",
+        "job": "Praktyki w Konsultingu IT – Salesforce Marketing Cloud",
+        "company": "Accenture Technology",
+        "location": "3 lokalizacje",
+        "link": "https://www.pracuj.pl/praca/praktyki-w-konsultingu-it-–-salesforce-marketing-cloud,oferta,1003324547"
+    },
+    {
+        "offer_id": "1003324552",
+        "job": "Praktykant/Junior Test Automation Developer (DevOps)",
+        "company": "Accenture Technology",
+        "location": "3 lokalizacje",
+        "link": "https://www.pracuj.pl/praca/praktykantjunior-test-automation-developer-(devops),oferta,1003324552"
+    },
+    {
+        "offer_id": "1003324484",
+        "job": "Praktyki PHP w zespole E_commerce",
+        "company": "Accenture Technology",
+        "location": "Warszawa",
+        "link": "https://www.pracuj.pl/praca/praktyki-php-w-zespole-e-commerce-warszawa,oferta,1003324484"
+    },
+    {
+        "offer_id": "1003324483",
+        "job": "Praktyki - Business Analyst, wdrożenia systemów eCommerce",
+        "company": "Accenture Technology",
+        "location": "Warszawa",
+        "link": "https://www.pracuj.pl/praca/praktyki-business-analyst-wdrozenia-systemow-ecommerce-warszawa,oferta,1003324483"
+    },
+    {
+        "offer_id": "1003324481",
+        "job": "Praktyki w Salesforce - PMO",
+        "company": "Accenture Technology",
+        "location": "2 lokalizacje",
+        "link": "https://www.pracuj.pl/praca/praktyki-w-salesforce---pmo,oferta,1003324481"
+    },
+    {
+        "offer_id": "1003354475",
+        "job": "Trainee in Masterdata",
+        "company": "Arla Global Shared Services Sp. z o.o.",
+        "location": "Gdańsk",
+        "link": "https://www.pracuj.pl/praca/trainee-in-masterdata-gdansk-aleja-grunwaldzka-103a,oferta,1003354475"
+    },
+    {
+        "offer_id": "1003324856",
+        "job": "Internship in Management Consulting",
+        "company": "Accenture Technology",
+        "location": "Warszawa",
+        "link": "https://www.pracuj.pl/praca/internship-in-management-consulting-warszawa,oferta,1003324856"
+    },
+    {
+        "offer_id": "1003294877",
+        "job": "BBH IT Internship Program - Systems Business Analyst",
+        "company": "Brown Brothers Harriman",
+        "location": "Kraków, Podgórze",
+        "link": "https://www.pracuj.pl/praca/bbh-it-internship-program-systems-business-analyst-krakow-stanislawa-klimeckiego-1,oferta,1003294877"
+    },
+    {
+        "offer_id": "1003334368",
+        "job": "Systems Administrator, Entry Internship",
+        "company": "PPG Global Business Services Poland Sp. z o.o.",
+        "location": "Wrocław, Śródmieście",
+        "link": "https://www.pracuj.pl/praca/systems-administrator-entry-internship-wroclaw-curie-sklodowskiej-12,oferta,1003334368"
+    },
+    {
+        "offer_id": "1003323599",
+        "job": "Internship - Large Language Models Intern",
+        "company": "Samsung R&D Institute Poland",
+        "location": "Warszawa, Wola",
+        "link": "https://www.pracuj.pl/praca/internship-large-language-models-intern-warszawa-plac-europejski-1,oferta,1003323599"
+    },
+    {
+        "offer_id": "1003343691",
+        "job": "Stażysta w Dziale Obsługi Klienta (Help Desk) – praca dla studenta",
+        "company": "Vorwerk Polska Sp. z o.o. Sp. K.",
+        "location": "Wrocław, Fabryczna",
+        "link": "https://www.pracuj.pl/praca/stazysta-w-dziale-obslugi-klienta-help-desk-praca-dla-studenta-wroclaw-na-ostatnim-groszu-3,oferta,1003343691"
+    },
+    {
+        "offer_id": "1003315653",
+        "job": "Summer Internship Program in IT",
+        "company": "Sylvamo Global Business Services Center",
+        "location": "Kraków, Grzegórzki",
+        "link": "https://www.pracuj.pl/praca/summer-internship-program-in-it-krakow-lubicz-23,oferta,1003315653"
+    },
+    {
+        "offer_id": "1003360085",
+        "job": "Internship - Linux Intern",
+        "company": "Samsung R&D Institute Poland",
+        "location": "Warszawa, Wola",
+        "link": "https://www.pracuj.pl/praca/internship-linux-intern-warszawa-plac-europejski-1,oferta,1003360085"
+    },
+    {
+        "offer_id": "1003326766",
+        "job": "Stażysta w dziale Rozwoju i Utrzymania SAP",
+        "company": "Animex Foods sp. z o.o.",
+        "location": "Poznań",
+        "link": "https://www.pracuj.pl/praca/stazysta-w-dziale-rozwoju-i-utrzymania-sap-poznan,oferta,1003326766"
+    },
+    {
+        "offer_id": "1003343602",
+        "job": "Stażysta w Zespole IT",
+        "company": "Unimot S.A.",
+        "location": "Częstochowa",
+        "link": "https://www.pracuj.pl/praca/stazysta-w-zespole-it-czestochowa,oferta,1003343602"
+    },
+    {
+        "offer_id": "1003359844",
+        "job": "Summer Internship Experience in Anti-Fraud Team",
+        "company": "ING Hubs Poland",
+        "location": "Katowice",
+        "link": "https://www.pracuj.pl/praca/summer-internship-experience-in-anti-fraud-team-katowice-zabrska-19,oferta,1003359844"
+    },
+    {
+        "offer_id": "1003322315",
+        "job": "Internship - Automotive Software Tester with Python",
+        "company": "Samsung R&D Institute Poland",
+        "location": "Warszawa, Wola",
+        "link": "https://www.pracuj.pl/praca/internship-automotive-software-tester-with-python-warszawa-plac-europejski-1,oferta,1003322315"
+    },
+    {
+        "offer_id": "1003321961",
+        "job": "Stażysta w Zespole Infrastruktura, Service Desk IT",
+        "company": "Grupa Śnieżka",
+        "location": "Brzeźnica (pow. dębicki)",
+        "link": "https://www.pracuj.pl/praca/stazysta-w-zespole-infrastruktura-service-desk-it-brzeznica-pow-debicki-debicka-44,oferta,1003321961"
+    },
+    {
+        "offer_id": "1003321924",
+        "job": "Risk Banking Champions - Programista SAS",
+        "company": "Bank Pekao",
+        "location": "Warszawa",
+        "link": "https://www.pracuj.pl/praca/risk-banking-champions-programista-sas-warszawa,oferta,1003321924"
+    },
+    {
+        "offer_id": "1003321917",
+        "job": "Stażysta Programista .NET",
+        "company": "NET PC sp. z o.o.",
+        "location": "Gdańsk",
+        "link": "https://www.pracuj.pl/praca/stazysta-programista-net-gdansk,oferta,1003321917"
+    },
+    {
+        "offer_id": "1003321914",
+        "job": "Stażysta Analityk IT/Product Owner",
+        "company": "NET PC sp. z o.o.",
+        "location": "Gdańsk",
+        "link": "https://www.pracuj.pl/praca/stazysta-analityk-it-product-owner-gdansk,oferta,1003321914"
+    },
+    {
+        "offer_id": "1003342390",
+        "job": "Open-Source Intern Program",
+        "company": "3MDEB SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+        "location": "Gdańsk, Oliwa",
+        "link": "https://www.pracuj.pl/praca/open-source-intern-program-gdansk-piastowska-7,oferta,1003342390"
+    },
+    {
+        "offer_id": "1003304236",
+        "job": "Staż w Zarządzaniu Umowami IT",
+        "company": "Citi Handlowy",
+        "location": "Warszawa, Wola",
+        "link": "https://www.pracuj.pl/praca/staz-w-zarzadzaniu-umowami-it-warszawa-goleszowska-6,oferta,1003304236"
+    },
+    {
+        "offer_id": "1003358598",
+        "job": "Stażysta - Inżynier Wsparcia Aplikacji Biznesowych",
+        "company": "Thales",
+        "location": "Gdańsk",
+        "link": "https://www.pracuj.pl/praca/stazysta-inzynier-wsparcia-aplikacji-biznesowych-gdansk,oferta,1003358598"
+    },
+    {
+        "offer_id": "1003321557",
+        "job": "Administrator / DevOps - staż SantanderTech",
+        "company": "Santander Bank Polska",
+        "location": "Warszawa",
+        "link": "https://www.pracuj.pl/praca/administrator-devops-staz-santandertech-warszawa,oferta,1003321557"
+    },
+    {
+        "offer_id": "1003303695",
+        "job": "Internship – Intern in Digital TV Certified Laboratory",
+        "company": "Samsung R&D Institute Poland",
+        "location": "Warszawa, Wola",
+        "link": "https://www.pracuj.pl/praca/internship-intern-in-digital-tv-certified-laboratory-warszawa-plac-europejski-1,oferta,1003303695"
+    },
+    {
+        "offer_id": "1003303692",
+        "job": "Internship - Natural Language Processing Intern in Artificial Intelligence Team",
+        "company": "Samsung R&D Institute Poland",
+        "location": "Warszawa, Wola",
+        "link": "https://www.pracuj.pl/praca/internship-natural-language-processing-intern-in-artificial-intelligence-team-warszawa-plac-europejski-1,oferta,1003303692"
+    },
+    {
+        "offer_id": "1003341673",
+        "job": "Inżynier Wsparcia Procesów Walidacyjnych - Stażysta",
+        "company": "Thales",
+        "location": "Gdańsk",
+        "link": "https://www.pracuj.pl/praca/inzynier-wsparcia-procesow-walidacyjnych-stazysta-gdansk,oferta,1003341673"
+    },
+    {
+        "offer_id": "1003321067",
+        "job": "Staż w Departamencie Zarządzania Usługami i Nadzoru Sieci - Akademia Praktyk i Staży Grupy Polsat Plus",
+        "company": "Netia",
+        "location": "Katowice, Wełnowiec",
+        "link": "https://www.pracuj.pl/praca/staz-w-departamencie-zarzadzania-uslugami-i-nadzoru-sieci-akademia-praktyk-i-sta-katowice-konduktorska-33,oferta,1003321067"
+    },
+    {
+        "offer_id": "1003321030",
+        "job": "Internship - Autonomous Agents Technologies Intern",
+        "company": "Samsung R&D Institute Poland",
+        "location": "Warszawa, Wola",
+        "link": "https://www.pracuj.pl/praca/internship-autonomous-agents-technologies-intern-warszawa-plac-europejski-1,oferta,1003321030"
+    },
+    {
+        "offer_id": "1003309421",
+        "job": "Internship – Android Intern in Samsung Wallet Team",
+        "company": "Samsung R&D Institute Poland",
+        "location": "Warszawa, Wola",
+        "link": "https://www.pracuj.pl/praca/internship-android-intern-in-samsung-wallet-team-warszawa-plac-europejski-1,oferta,1003309421"
+    },
+    {
+        "offer_id": "1003341193",
+        "job": "Java Developer Internship",
+        "company": "TRANSITION TECHNOLOGIES PSC S.A.",
+        "location": "3 lokalizacje",
+        "link": "https://www.pracuj.pl/praca/java-developer-internship,oferta,1003341193"
+    },
+    {
+        "offer_id": "1003347650",
+        "job": "Intern - Model Risk Management",
+        "company": "HSBC Service Delivery (Polska) Sp. z o.o.",
+        "location": "Kraków, Dębniki",
+        "link": "https://www.pracuj.pl/praca/intern-model-risk-management-krakow-kapelanka-42a,oferta,1003347650"
+    },
+    {
+        "offer_id": "1003320326",
+        "job": "Stażysta / Stażystka w Zespole Zarządzania Projektami",
+        "company": "Fiserv Polska S.A.",
+        "location": "Warszawa, Ochota",
+        "link": "https://www.pracuj.pl/praca/stazysta-stazystka-w-zespole-zarzadzania-projektami-warszawa-aleje-jerozolimskie-100,oferta,1003320326"
+    },
+    {
+        "offer_id": "1003320316",
+        "job": "Praktykant / Praktykantka w Zespole Testów",
+        "company": "Fiserv Polska S.A.",
+        "location": "Warszawa, Ochota",
+        "link": "https://www.pracuj.pl/praca/praktykant-praktykantka-w-zespole-testow-warszawa-aleje-jerozolimskie-100,oferta,1003320316"
+    },
+    {
+        "offer_id": "1003320317",
+        "job": "Stażysta / Stażystka w Zespole Testów",
+        "company": "Fiserv Polska S.A.",
+        "location": "Warszawa, Ochota",
+        "link": "https://www.pracuj.pl/praca/stazysta-stazystka-w-zespole-testow-warszawa-aleje-jerozolimskie-100,oferta,1003320317"
+    },
+    {
+        "offer_id": "1003332391",
+        "job": "Staż .Net Developer",
+        "company": "ITBoom Sp. z o.o.",
+        "location": "Warszawa, Śródmieście",
+        "link": "https://www.pracuj.pl/praca/staz-net-developer-warszawa-bonifraterska-17,oferta,1003332391"
+    },
+    {
+        "offer_id": "1003356178",
+        "job": "Młodszy Specjalista IT",
+        "company": "Animex Foods sp. z o.o.",
+        "location": "Morliny (pow. ostródzki; gm. Ostróda)",
+        "link": "https://www.pracuj.pl/praca/mlodszy-specjalista-it-morliny-pow-ostrodzki-gm-ostroda,oferta,1003356178"
+    },
+    {
+        "offer_id": "1003332196",
+        "job": "Internship-Young Potentials Program",
+        "company": "Macrix Technology Group",
+        "location": "Poznań, Grunwald",
+        "link": "https://www.pracuj.pl/praca/internship-young-potentials-program-poznan-marcelinska-90,oferta,1003332196"
+    },
+    {
+        "offer_id": "1003339142",
+        "job": "Test Automation Engineer Internship ​",
+        "company": "TRANSITION TECHNOLOGIES PSC S.A.",
+        "location": "2 lokalizacje",
+        "link": "https://www.pracuj.pl/praca/test-automation-engineer-internship-​,oferta,1003339142"
+    },
+    {
+        "offer_id": "1003331346",
+        "job": "Staż w Dziale Commerce Cloud (DevOps)",
+        "company": "Shoper S.A.",
+        "location": "Szczecin",
+        "link": "https://www.pracuj.pl/praca/staz-w-dziale-commerce-cloud-devops-szczecin,oferta,1003331346"
+    },
+    {
+        "offer_id": "1003338930",
+        "job": "Digital Manufacturing Internship",
+        "company": "TRANSITION TECHNOLOGIES PSC S.A.",
+        "location": "Zielona Góra",
+        "link": "https://www.pracuj.pl/praca/digital-manufacturing-internship-zielona-gora,oferta,1003338930"
+    },
+    {
+        "offer_id": "1003345376",
+        "job": "Stażysta/ka w zespole ds. wsparcia wdrożeń rozwiązań IT",
+        "company": "Havi Logistics Sp. z o.o.",
+        "location": "Warszawa, Mokotów",
+        "link": "https://www.pracuj.pl/praca/stazysta-ka-w-zespole-ds-wsparcia-wdrozen-rozwiazan-it-warszawa-marynarska-15,oferta,1003345376"
+    },
+    {
+        "offer_id": "1003353442",
+        "job": "Staż w Dziale Transformacji Cyfrowej",
+        "company": "PRESS GLASS",
+        "location": "Konopiska (pow. częstochowski)",
+        "link": "https://www.pracuj.pl/praca/staz-w-dziale-transformacji-cyfrowej-konopiska-pow-czestochowski,oferta,1003353442"
+    },
+    {
+        "offer_id": "1003337124",
+        "job": "Staż #Konica Minolta Adventure ​ - Konsultant Wdrożeniowy ITS",
+        "company": "Konica Minolta Business Solutions Polska",
+        "location": "Rzeszów",
+        "link": "https://www.pracuj.pl/praca/staz-%23konica-minolta-adventure-konsultant-wdrozeniowy-its-rzeszow,oferta,1003337124"
+    },
+    {
+        "offer_id": "1003352691",
+        "job": "Digital transformation IT intern",
+        "company": "TCL ELECTRONICS POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+        "location": "Warszawa, Włochy",
+        "link": "https://www.pracuj.pl/praca/digital-transformation-it-intern-warszawa-aleje-jerozolimskie-180,oferta,1003352691"
+    },
+    {
+        "offer_id": "1003313032",
+        "job": "Stażysta w Zespole Architektów i Digitalizacji",
+        "company": "Volkswagen Group Polska",
+        "location": "Poznań, Nowe Miasto",
+        "link": "https://www.pracuj.pl/praca/stazysta-w-zespole-architektow-i-digitalizacji-poznan-krancowa-44,oferta,1003313032"
+    },
+    {
+        "offer_id": "1003342086",
+        "job": "Staż w Zespole Sieciowym",
+        "company": "Allianz",
+        "location": "Warszawa, Śródmieście",
+        "link": "https://www.pracuj.pl/praca/staz-w-zespole-sieciowym-warszawa-inflancka-4,oferta,1003342086"
+    },
+    {
+        "offer_id": "1003315653",
+        "job": "Summer Internship Program in IT",
+        "company": "Sylvamo Global Business Services Center",
+        "location": "Kraków, Grzegórzki",
+        "link": "https://www.pracuj.pl/praca/summer-internship-program-in-it-krakow-lubicz-23,oferta,1003315653"
+    },
+    {
+        "offer_id": "1003310843",
+        "job": "Stażysta/ka w Dziale Rozwoju i Utrzymania Oprogramowania",
+        "company": "BIGRAM Sp. z o. o.",
+        "location": "Warszawa",
+        "link": "https://www.pracuj.pl/praca/stazysta-ka-w-dziale-rozwoju-i-utrzymania-oprogramowania-warszawa,oferta,1003310843"
+    },
+    {
+        "offer_id": "1003315588",
+        "job": "Summer Internship in Application Support",
+        "company": "Selvita",
+        "location": "Kraków, Dębniki",
+        "link": "https://www.pracuj.pl/praca/summer-internship-in-application-support-krakow-podole-79,oferta,1003315588"
+    },
+    {
+        "offer_id": "1003344204",
+        "job": "Stażysta/Stażystka w dziale technicznym",
+        "company": "PF electronic Sp. z o.o.",
+        "location": "Gliwice",
+        "link": "https://www.pracuj.pl/praca/stazysta-stazystka-w-dziale-technicznym-gliwice,oferta,1003344204"
+    },
+    {
+        "offer_id": "1003312535",
+        "job": "Stażysta/Stażystka SAP",
+        "company": "Axians IT Poland Sp. z o.o.",
+        "location": "3 lokalizacje",
+        "link": "https://www.pracuj.pl/praca/stażystastażystka-sap,oferta,1003312535"
+    },
+    {
+        "offer_id": "1003314706",
+        "job": "Stażysta / Stażystka - Test Engineer",
+        "company": "CloudFerro S.A.",
+        "location": "Warszawa, Śródmieście",
+        "link": "https://www.pracuj.pl/praca/stazysta-stazystka-test-engineer-warszawa-fabryczna-5,oferta,1003314706"
+    },
+    {
+        "offer_id": "1003314523",
+        "job": "Summer Internship in 1st Line IT Support",
+        "company": "Selvita",
+        "location": "Kraków, Dębniki",
+        "link": "https://www.pracuj.pl/praca/summer-internship-in-1st-line-it-support-krakow-podole-79,oferta,1003314523"
+    },
+    {
+        "offer_id": "1003307025",
+        "job": "Summer Internships - Frontend developer",
+        "company": "Loyalty Partner Polska Sp. z o.o. (PAYBACK)",
+        "location": "Warszawa, Wola",
+        "link": "https://www.pracuj.pl/praca/summer-internships-frontend-developer-warszawa-towarowa-28,oferta,1003307025"
+    },
+    {
+        "offer_id": "1003306811",
+        "job": "Praktykant/Praktykantka w Zespole Wsparcia IT",
+        "company": "Żabka Polska",
+        "location": "Szałsza (pow. tarnogórski)",
+        "link": "https://www.pracuj.pl/praca/praktykant-praktykantka-w-zespole-wsparcia-it-szalsza-pow-tarnogorski,oferta,1003306811"
+    },
+    {
+        "offer_id": "1003306242",
+        "job": "Staż Scrum Master",
+        "company": "Silky Coders sp. z o.o.",
+        "location": "Gdańsk",
+        "link": "https://www.pracuj.pl/praca/staz-scrum-master-gdansk-dlugie-ogrody-12,oferta,1003306242"
+    },
+    {
+        "offer_id": "1003302894",
+        "job": "Stażysta / Stażystka - Dział zarządzania projektami IT",
+        "company": "CloudFerro S.A.",
+        "location": "Warszawa, Śródmieście",
+        "link": "https://www.pracuj.pl/praca/stazysta-stazystka-dzial-zarzadzania-projektami-it-warszawa-fabryczna-5,oferta,1003302894"
+    },
+    {
+        "offer_id": "1003301621",
+        "job": "Stażysta / Stażystka - IT Quality Assurance",
+        "company": "CloudFerro S.A.",
+        "location": "Warszawa, Śródmieście",
+        "link": "https://www.pracuj.pl/praca/stazysta-stazystka-it-quality-assurance-warszawa-fabryczna-5,oferta,1003301621"
+    }
+]
